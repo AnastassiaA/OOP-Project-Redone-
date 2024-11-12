@@ -1,4 +1,4 @@
-# OOP-Project-Redone-
+# Home & Away Institute (H&AI) [OOP-Project-Redo]
 (In progress) 
 
 The Home & Away Institute (H&AI) is an Educational Institution that specializes in offering Distance
